@@ -6,3 +6,4 @@ I consider 2 datasets (biased and unbiased) -  the biased dataset is created by 
 Similar accuracy can suggest that models work similarly but in features importance analysis (LIME, Permutation Importance, Feature Importance for Random Forest, Partial plot importance) we can see that biased one use feature sex as one of most important variables.
 
 Dataset: http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+For detailed analysis please check my blog: https://analitycznyumysl.pl/kiedy-ufac-modelom-ml/ 
